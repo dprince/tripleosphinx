@@ -9,7 +9,7 @@ body {
 }
 
 #header h1#logo {
-  background: url(../_static/owl.png) top left no-repeat;
+  background: url(../_static/tripleo_owl.svg) top left no-repeat;
   display: block;
   float: left;
   text-indent: -9999px;
