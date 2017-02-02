@@ -3,8 +3,7 @@ body {
 }
 
 #header {
-  width: 950px;
-  margin: 0 auto;
+  margin-left: 30px;
   height: 140px;
 }
 
@@ -89,7 +88,6 @@ div.body {
 }
 
 div.document {
-  width: 960px;
   margin: 0 auto;
 }
 
